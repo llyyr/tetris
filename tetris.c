@@ -1,4 +1,4 @@
-#include <math.h>
+#define SDL_MAIN_HANDLED
 #include <SDL.h>
 #include <stdlib.h>
 #include <time.h>
